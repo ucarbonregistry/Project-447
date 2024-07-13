@@ -22,33 +22,33 @@ fuels and consequently contribute to air pollution. Conversely, the wind turbine
 generate electricity with no emissions whatsoever. Commissioning dates of the Wind Turbine Generator
 installed are shown in the below table:
 
-Sr. No. / Make No. & Capacity / Commissioning Date
+Sr. No. / Make/ No. & Capacity / Commissioning Date
 ________________
-1/ Suzlon 2 X 1.2 MW/ 14-03-2011
+1/ Suzlon /2 X 1.2 MW/ 14-03-2011
 _____________
-2/ Suzlon 5 X 1.5 MW/ 31-03-2008
+2/ Suzlon/ 5 X 1.5 MW/ 31-03-2008
 ______________
-3/ Suzlon 3 X 2.1 MW /11-09-2010
+3/ Suzlon/ 3 X 2.1 MW /11-09-2010
 ________________
-4/ Suzlon 2 X 2.1 MW /24-09-2010
+4/ Suzlon/ 2 X 2.1 MW /24-09-2010
 _______________
-5/ Suzlon 2 X 1.5 MW /25-03-2009
+5/ Suzlon /2 X 1.5 MW /25-03-2009
 ___________
-6/ Enercon 1 X 0.8 MW /29-08-2008
+6/ Enercon /1 X 0.8 MW /29-08-2008
 ___________
-7/ Enercon 1 X 0.8 MW /08-08-2008
+7/ Enercon /1 X 0.8 MW /08-08-2008
 ______________
-8/ Enercon 2 X 0.8MW/ 21-07-2008
+8/ Enercon/ 2 X 0.8MW/ 21-07-2008
 ____________
-9/ Enercon 9 X 0.8 MW/ 25-03-2009
+9/ Enercon/ 9 X 0.8 MW/ 25-03-2009
 ____________
-10/ Enercon 3 X 0.8 MW/ 24-06-2008
+10/ Enercon/ 3 X 0.8 MW/ 24-06-2008
 ____________
-11 /Enercon 6 X 0.8 MW /10-06-2009
+11 /Enercon/ 6 X 0.8 MW /10-06-2009
 ____________
-12 Enercon 5 X 0.8 MW 29-06-2009
+12 /Enercon/ 5 X 0.8 MW /29-06-2009
 _____________
-13 Enercon 7 X 0.8 MW 20-03-2008
+13/ Enercon/ 7 X 0.8 MW/ 20-03-2008
 _____________________
 
 This bundled project will generate approximately 98,865 MWh electricity per annum. The net generated
