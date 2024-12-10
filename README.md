@@ -182,4 +182,62 @@ generated using grid mix power plants, which is dominated by fossil fuel based t
 the injection of renewable power to the grid, the project activity would be displacing equivalent quantum of
 fossil fuel based electricity resulting in emission reduction of 88,978 tCO2 and whereas actual emission
 reduction achieved during the first CoU period shall be submitted as a part of first monitoring and verification. 
+_____________
+MP-01 ISSUE DATE: 10/12/2024
 
+QTY: 690005 CoUS
+_____________
+Serial Number: 0001-000001-063125-UCR-CoU-IN-447-01042015-31122015
+
+Vintage Year: 2015
+
+Quantity: 63125
+____________
+Serial Number: 0001-063126-140644-UCR-CoU-IN-447-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 77519
+___________
+Serial Number: 0001-140645-217575-UCR-CoU-IN-447-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 76931
+____________
+Serial Number: 0001-217576-300430-UCR-CoU-IN-447-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 82855
+_______________
+Serial Number: 0001-300431-379079-UCR-CoU-IN-447-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 78649
+________________
+Serial Number:0001-379080-455939-UCR-CoU-IN-447-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity:76860
+_____________
+Serial Number: 0001-455940-534896-UCR-CoU-IN-447-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 78957
+_____________
+Serial Number: 0001-534897-616954-UCR-CoU-IN-447-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 82058
+__________
+Serial Number: 0001-616955-690005-UCR-CoU-IN-447-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 73051
+_______________
