@@ -1,8 +1,10 @@
 # Project-447
  59.4 MW Bundled Wind Power Project in Rajasthan &amp; Madhya Pradesh by Orchid Renewable Powertech Private Limited 
  _____________
-First CoU Issuance Period: 11 Years -01/01/2013 to 31/12/2023
+First Issuance Period : 08 years 09Months
 
+Monitoring Period : 01/04/2015 to 31/12/2023
+__________________
 Capacity in kW /Latitude /Longitude
 
 2100/ 27.19742/ 70.809694
@@ -68,6 +70,54 @@ Capacity in kW /Latitude /Longitude
 800 22.80936/ 76.2095
 
 800 /22.80747/ 76.208528
+
+800/ 22.80972/ 76.235278
+
+800 /22.808/ 76.235611
+
+800/ 22.79861/ 76.198778
+
+800/ 22.80522/ 76.240028
+
+800/ 22.79653/ 76.198278
+
+800/ 22.80422/ 76.244917
+
+800/ 22.79442/ 76.196889
+
+800 /22.79489/ 76.21
+
+800 /22.78511/ 76.215639
+
+800/ 22.78586/ 76.219861
+
+800 /22.78294 /76.215056
+
+800/ 22.78125/ 76.214556
+
+800 /22.77925 /76.213972
+
+800 /22.77756/ 76.210972
+
+800/ 22.77378/ 76.200222
+
+800/ 22.77214/ 76.197
+
+800/ 22.74361/ 76.183694
+
+800/ 22.74178/ 76.1835
+
+800/ 22.73983/ 76.183139
+
+800 /22.73847/ 76.18525
+
+800 /22.73875/ 76.192167
+
+800 /22.73669/ 76.188861
+
+800 /22.72961/ 76.196917
+
+800/ 22.72908/ 76.20138
 _________________
 
 The Project activity titled, "59.4 MW Bundled Wind Power Project in Rajasthan & Madhya Pradesh by Orchid
@@ -116,6 +166,8 @@ ____________
 _____________
 13/ Enercon/ 7 X 0.8 MW/ 20-03-2008
 _____________________
+
+
 
 This bundled project will generate approximately 98,865 MWh electricity per annum. The net generated
 electricity from the project activity is for selling it to RDPPC (Rajasthan Discoms Power Procurement Centre)
